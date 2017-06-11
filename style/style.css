@@ -1,0 +1,42 @@
+.app-footer {
+  margin-top: 2em;
+  padding-top: 1em;
+  padding-bottom: .6em;
+  border-top: 1px solid #4E5D6C;
+}
+
+.app-footer .btn-link {
+  color: #677c91 !important;
+}
+
+.app-footer .btn-link:first-child {
+  text-decoration: none !important;
+}
+
+.input-group-btn .btn {
+  line-height: 1.36;
+}
+
+.criteria-panel .panel-body {
+  padding-top: 5px;
+}
+
+.btn-group.criterion {
+  margin-top: 10px;
+}
+
+.btn.criterion-remove {
+  padding: 12px 6px;
+}
+
+.criterion-remove .glyphicon::before {
+  font-size: 15px;
+}
+
+.btn-default.criterion {
+  cursor: default;
+}
+
+.btn-default.criterion:hover {
+  background-color: #4e5d6c !important;
+}
